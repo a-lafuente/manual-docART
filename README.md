@@ -8,5 +8,5 @@ El manual está dividido en tres partes:
 2. Aspectos conceptuales
 3. Aspectos preparatorios
 
-
+![](/assets/photo_2017-12-12_09-17-06.jpg)
 
