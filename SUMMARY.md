@@ -3,7 +3,7 @@
 * [Manual de docART Prueba](README.md)
 * [prueba](prueba.md)
 * [Noción de grafema](nocion-de-grafema.md)
-* [manual de docART](manual-de-docart.md)
+* [manual docART](manual-de-docart.md)
   * [Aspectos Prácticos](manual-de-docart-prueba/aspectos-practicos.md)
     * [Inciar la documentación](manual-de-docart/aspectos-practicos/inciar-la-documentacion.md)
     * [La representación de prototipo](manual-de-docart/aspectos-practicos/la-representacion-de-prototipo.md)
