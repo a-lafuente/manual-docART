@@ -1,20 +1,20 @@
 ## **aspectos prácticos**
 
-Cómo iniciar un proceso de documentación?
+Iniciar la documentación?
 
-Cómo documentar un proceso de prototipado?
+La represetación de un prototipado
 
-Grafema
+La noción de grafema
 
 Nota ordinária
 
-Cinco reglas de oro para las nota
+Cinco reglas de oro para las notas
 
 Receta lenta
 
 Receta rápida
 
-Hito
+La noción hito
 
 Tres reglas de oro para el hito
 
