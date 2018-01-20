@@ -2,8 +2,8 @@
 
 * [Manual de docART](README.md)
 * [Aspectos Prácticos](manual-de-docart-prueba/aspectos-practicos.md)
-  * [Inciar la documentación](manual-de-docart-prueba/aspectos-practicos/inciar-la-documentacion.md)
-  * [La representación de prototipo](manual-de-docart/aspectos-practicos/la-representacion-de-prototipo.md)
+  * [Iniciar la documentación](manual-de-docart-prueba/aspectos-practicos/inciar-la-documentacion.md)
+  * [La representación del prototipo](manual-de-docart/aspectos-practicos/la-representacion-de-prototipo.md)
   * [Noción de grafema](manual-de-docart-prueba/aspectos-practicos/nocion-de-grafema.md)
   * [5 reglas de oro para las notas](manual-de-docart-prueba/aspectos-practicos/5-reglas-de-oro-para-las-notas.md)
   * [Nota ordinaria](manual-de-docart-prueba/aspectos-practicos/nota-ordinaria.md)
