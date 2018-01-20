@@ -4,6 +4,14 @@
 * [Aspectos Prácticos](manual-de-docart-prueba/aspectos-practicos.md)
   * [Inciar la documentación](manual-de-docart-prueba/aspectos-practicos/inciar-la-documentacion.md)
   * [La representación de prototipo](manual-de-docart/aspectos-practicos/la-representacion-de-prototipo.md)
+  * [Noción de grafema](manual-de-docart-prueba/aspectos-practicos/nocion-de-grafema.md)
+  * [5 reglas de oro para las notas](manual-de-docart-prueba/aspectos-practicos/5-reglas-de-oro-para-las-notas.md)
+  * [Nota ordinaria](manual-de-docart-prueba/aspectos-practicos/nota-ordinaria.md)
+  * [Receta rápida](manual-de-docart-prueba/aspectos-practicos/receta-rapida.md)
+  * [Receta lenta](manual-de-docart-prueba/aspectos-practicos/receta-lenta.md)
+  * [Descripción del hito](manual-de-docart-prueba/aspectos-practicos/descripcion-del-hito.md)
+  * [3 reglas de oro para el hito](manual-de-docart-prueba/aspectos-practicos/3-reglas-de-oro-para-el-hito.md)
+  * [Mapa de aprendizajes](manual-de-docart-prueba/aspectos-practicos/mapa-de-aprendizajes.md)
 * [Aspectos conceptuales](manual-de-docart/aspectos-teoricos.md)
   * [La importancia de los hechos](manual-de-docart/aspectos-teoricos/la-importancia-de-los-hechos.md)
   * [Importancia de los afectos](manual-de-docart/aspectos-teoricos/importancia-de-los-afectos.md)
@@ -12,6 +20,4 @@
   * [Importancia de la propuesta](manual-de-docart/aspectos-preparatorios/importancia-de-la-propuesta.md)
 * [prueba](prueba.md)
 * [Noción de grafema](nocion-de-grafema.md)
-
-
 
