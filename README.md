@@ -2,9 +2,9 @@ docART nace del encuentro de dos inciativas  largamente incubadas: la que nace e
 
 La primera vez que se mosró en público fue aprovechando la convocatoria del Laboratorio ["Inteligencia colectiva y herramientas para a democracía"](http://medialab-prado.es/article/collective-intelligence-for-democracy-2017) desarrollada en MediaLab-Prado en noviembre de 2017.
 
-| ![](/assets/photo_2017-11-14_07-50-18.jpg)![](/assets/photo_2017-11-17_14-06-21.jpg) | ![](/assets/photo_2017-11-17_09-36-09.jpg) |
+| ![](/assets/photo_2017-11-14_07-50-18.jpg) | ![](/assets/docART_g1.png) |
 | :--- | :--- |
-| ![](/assets/photo_2017-11-09_10-14-40.jpg) | ![](/assets/photo_2017-11-16_17-41-13.jpg)![](/assets/photo_2017-12-12_09-17-58.jpg) |
+| ![](/assets/photo_2017-12-12_09-17-58.jpg) | ![](/assets/photo_2017-11-16_17-41-13.jpg) |
 
 
 
