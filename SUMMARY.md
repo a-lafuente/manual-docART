@@ -14,7 +14,7 @@
   * [Mapa de aprendizajes](manual-de-docart-prueba/aspectos-practicos/mapa-de-aprendizajes.md)
 * [Aspectos conceptuales](manual-de-docart/aspectos-teoricos.md)
   * [La importancia de la documentión](manual-de-docart/aspectos-teoricos/la-importancia-de-los-hechos.md)
-  * Relación entre la documentación y el prototipo
+  * [Relación entre la documentación y el prototipo](manual-de-docart/aspectos-teoricos/relacion-entre-la-documentacion-y-el-prototipo.md)
   * [Importancia de los hechos](manual-de-docart/aspectos-teoricos/importancia-de-los-hechos.md)
   * [Importancia de los afectos](manual-de-docart/aspectos-teoricos/importancia-de-los-afectos.md)
   * [Relación entre los hechos y los afectos](manual-de-docart/aspectos-teoricos/relacion-entre-los-hechos-y-los-afectos.md)
