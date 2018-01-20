@@ -6,3 +6,9 @@ Un grafema es cualquier cosa que contiene información relevante para un proceso
 
 Los grafemas forman parte del proceso y la mayor parte de ellos acaban en la papelera: los tratamos como sobras o desechos. Muchos de ellos, sin embargo, son testimonios del esfuerzo colectivo para lograr mayor claridad, más concisión o mejor gestión del proceso. Considerarlos basura es un error si queremos darle importancia a todas las tareas realizadas para lograr el resultado final.
 
+| ![](/assets/docART_g4.png) | ![](/assets/docART_g2.png)![](/assets/photo_2017-11-21_17-13-58.jpg) |
+| :--- | :--- |
+
+
+
+

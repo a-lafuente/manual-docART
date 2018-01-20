@@ -8,3 +8,5 @@ Como es una nota también está compuesto de dos partes: un grafema y un texto e
 
 La nota es un ejemplo de cómo la explicación de la noción de hito fue consecuencia de una muy larga discusión sobre qué aspectos resaltar y qué longitud darle.
 
+![](/assets/docART_g10.png)
+

@@ -14,3 +14,5 @@ Hemos acordado recomendar a los autores unas cuantas reglas sencillas que ayudar
 
 Esta cinco reglas se resumen en dos: una, hazlo accesible; dos, hazte cercano.
 
+![](/assets/docART_g6.png)
+

@@ -4,3 +4,5 @@ Una nota está compuesta de dos partes: la primera es un grafema y, la segunda, 
 
 Las notas contienen los detalles prácticos, técnicos y operacionales del proceso de prototipado.
 
+
+

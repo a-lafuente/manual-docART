@@ -1,4 +1,4 @@
-### **Receta lenta**
+* [ ] ### **Receta lenta**
 
 Una receta lenta la escribimos para dar cuenta detallada del proceso de prototipado. Está hecha de notas ordinarias y divida en tres partes. Lo que ocurre antes de que se reúna el grupo, lo que ocurre durante el proceso mismo de prototipado y lo que acuerdan para después, una vez concluido.
 
@@ -13,4 +13,8 @@ Lo más relevante es dar cuenta de todos los detalles prácticos necesarios para
 **Después**
 
 Hacia el final del proceso el equipo toma decisiones sobre cómo compartir, comunicar y licenciar el trabajo realizado. Todas estos compromisos deben quedar registrados. Este es el momento para recomendar algunas referencias: videos, blogs, libros, artículos, redes, informes...Quizás lo más importante sea dedicar un tiempo para indicar desarrollos futuros, formas de uso, alianzas estratégicas.
+
+![](/assets/recetas_libres.png)
+
+
 
