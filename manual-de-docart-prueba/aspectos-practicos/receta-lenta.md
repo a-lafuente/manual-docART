@@ -1,4 +1,4 @@
-* [ ] ### **Receta lenta**
+### **Receta lenta**
 
 Una receta lenta la escribimos para dar cuenta detallada del proceso de prototipado. Está hecha de notas ordinarias y divida en tres partes. Lo que ocurre antes de que se reúna el grupo, lo que ocurre durante el proceso mismo de prototipado y lo que acuerdan para después, una vez concluido.
 
