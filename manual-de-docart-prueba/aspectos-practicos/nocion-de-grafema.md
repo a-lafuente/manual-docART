@@ -1,6 +1,6 @@
 ### **Noción de grafema**
 
-La noción de grafema está inspirada en la obra de Hans-Jörg Rheinberger.
+La noción de grafema está inspirada en la obra de [Hans-Jörg Rheinberger](https://www.mpiwg-berlin.mpg.de/users/rheinbg).
 
 Un grafema es cualquier cosa que contiene información relevante para un proceso en curso. Los grafemas pueden ser imágenes, videos, infografías, mapas, audios, muestras de laboratorio y, en general, cualquier objeto que que haya sido necesario para la construcción del prototipo.
 

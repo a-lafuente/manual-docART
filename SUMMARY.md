@@ -1,6 +1,7 @@
 # Summary
 
 * [Manual de docART](README.md)
+* [docART para principiantes](docart-para-principiantes.md)
 * [Aspectos Prácticos](manual-de-docart-prueba/aspectos-practicos.md)
   * [Iniciar la documentación](manual-de-docart-prueba/aspectos-practicos/inciar-la-documentacion.md)
   * [La representación del prototipo](manual-de-docart/aspectos-practicos/la-representacion-de-prototipo.md)
