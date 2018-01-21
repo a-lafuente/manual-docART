@@ -1,14 +1,12 @@
 ### **Introducción a la propuesta**
 
-
-
 #### **Contexto**
 
-En los laboratorios ciudadanos se habla mucho de la importancia de la documentación pero en la práctica se hace sin mucha dedicación y de forma más burocrática que creativa. La documentación puede y debe mejorar.
+En los [laboratorios ciudadanos](https://www.academia.edu/29114688/Los_imaginarios_del_Laboratorio_ciudadano_) se habla mucho de la importancia de la documentación pero en la práctica se hace sin mucha dedicación y de forma más burocrática que creativa. La documentación puede y debe mejorar.
 
-Documentamos para compartir nuestro trabajo y su éxito no es necesario medirlo por la popularidad que logre, sino que puede ser entendido como la capacidad para replicarse o ser replicado. La replicabilidad, sin embargo, no está asegurada si limitamos la documentación a los aspectos técnicos u operacionales. Hay evidencias recientes de que la inmensa mayoría de los experimentos científicos no son replicables. En ciencia se habla ya abiertamente de este problema y es tratado como una crisis de replicabilidad. ¿Cómo explicarla? ¿A qué atribuir un problema tan profundo como inesperado e inquietante?
+Documentamos para compartir nuestro trabajo y su éxito no es necesario medirlo por la popularidad que logre, sino que puede ser entendido como la capacidad para replicarse o ser replicado. La replicabilidad, sin embargo, no está asegurada si limitamos la documentación a los aspectos técnicos u operacionales. Hay evidencias recientes de que la inmensa mayoría de [los experimentos científicos no son replicables](https://replicationnetwork.com/2016/05/30/survey-in-nature-reports-on-how-scientists-view-the-reproducibility-crisis/). En ciencia se habla ya abiertamente de este problema y es tratado como una crisis de replicabilidad. ¿Cómo explicarla? ¿A qué atribuir un problema tan profundo como inesperado e inquietante?
 
-Nuestra hipótesis es que la documentación, en cualquiera de sus formas \(_paper,_ cuaderno de laboratorio, _report_, tesis,...\) sólo incluye los aspectos objetivos y deja de lado la dimensión tácita, afectiva, relacional o empática que también forma parte del proceso de producción de conocimiento.
+Nuestra hipótesis es que la documentación, en cualquiera de sus formas \(_paper,_ cuaderno de laboratorio, _report_, tesis,...\) sólo incluye los aspectos objetivos y deja de lado la [dimensión tácita](https://www.economist.com/news/briefing/21588057-scientists-think-science-self-correcting-alarming-degree-it-not-trouble), afectiva, relacional o empática que también forma parte del proceso de producción de conocimiento.
 
 #### **Propuesta**
 
@@ -32,7 +30,7 @@ La importancia de los resultados nadie la discute, pero también queremos dar va
 
 #### **Solución tecnológica**
 
-docART necesita una capa digital que permita el acceso a los proyectos, la visibilidad de los prototipos, la discusión a distancia y el trabajo colaborativo. Nuestra inspiración para desarrollarla la hemos extraído de las comunidades de SL que han adoptado masivamente la tecnología GIT y alojado sus proyectos en la plataforma GitHub. Una más detallada y convincente explicación de las ventajas de GIT puede encontrarse en el muy reputado texto de Vincent Driessen, A successful Git branching model \(2010\). GitHub ha probado su idoneidad en proyectos orientados a la creación de código y nosotros estamos seguros de que también puede adaptarse para crear contenidos de texto, parte fundamental de lo producido en los laboratorios ciudadanos.
+docART necesita una capa digital que permita el acceso a los proyectos, la visibilidad de los prototipos, la discusión a distancia y el trabajo colaborativo. Nuestra inspiración para desarrollarla la hemos extraído de las comunidades de SL que han adoptado masivamente la tecnología [GIT](https://es.wikipedia.org/wiki/Git) y alojado sus proyectos en la plataforma [GitHub](https://es.wikipedia.org/wiki/GitHub). Una más detallada y convincente explicación de las ventajas de GIT puede encontrarse en el muy reputado texto de Vincent Driessen, [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/) \(2010\). GitHub ha probado su idoneidad en proyectos orientados a la creación de código y nosotros estamos seguros de que también puede adaptarse para crear contenidos de texto, parte fundamental de lo producido en los laboratorios ciudadanos.
 
-GitHub garantiza la naturaleza libre de docART y la interoperablidad de todos los contenidos.
+GitHub garantiza la naturaleza [libre](https://es.wikipedia.org/wiki/Cultura_libre) de docART y la [interoperablidad](https://es.wikipedia.org/wiki/Interoperabilidad) de todos los contenidos.
 
